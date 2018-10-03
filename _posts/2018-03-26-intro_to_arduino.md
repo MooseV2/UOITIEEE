@@ -10,6 +10,9 @@ The IEEE UOIT Student Branch is hosting an introductory workshop on Arduino prot
 Learn how an Arduino works and basic digital input and output.
 The event is open to all engineering students and will be run in the Engineering Innovation and Design Studio in SIRC 2070 from 2-4pm on
 Monday March 26th, 2018. There will be no charge for the workshop!
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSCP69KMdCBbhDsg6_7vLYYFijTcByxgwUHnhUv-Sl0gEUxFYNluhi96macvYQdYj_NHrv-QbVN_U3x/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 <p>Please use this powerpoint to check out the content: <a target="_blank" href="https://docs.google.com/presentation/d/1WE9XH9dcJm1JzWKUklYiIZcPW3towbiokCMYWeOtBdM/edit?usp=sharing">Content Slides</a></p>
 
 Arudino Code:
